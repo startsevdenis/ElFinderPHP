@@ -1,14 +1,14 @@
 {
-    "name": "helios-ag/fm-elfinder-php-connector",
+    "name": "startsedenis/fm-elfinder-php-connector",
     "description": "ElFinder PHP backend, 5.3 compliant",
     "keywords": ["elfinder", "filemanager"],
-    "homepage": "http://github.com/helios-ag/ElFinderPHP",
+    "homepage": "http://github.com/startsevdenis/ElFinderPHP",
     "type": "library",
     "license": "BSD-3 Clause",
     "authors": [
         {
-            "name": "Al Ganiev",
-            "email": "helios.ag@gmail.com"
+            "name": "Denis Startsev",
+            "email": "startsevdenis@gmail.com"
         },
         {
             "name": "ElFinder authors",
