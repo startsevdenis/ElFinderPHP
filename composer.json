@@ -5,6 +5,7 @@
     "homepage": "http://github.com/startsevdenis/ElFinderPHP",
     "type": "library",
     "license": "BSD-3 Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Denis Startsev",
